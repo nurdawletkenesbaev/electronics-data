@@ -1,0 +1,106 @@
+{
+    "products": [{
+            "category": "phone",
+            "name": "Apple iPhone 11 64GB ",
+            "images": [
+                "https://openshop.uz/uploads/products/photos/202204/XegwQGK3eVH65N9X9tJBFPVAPnZaM5TeeDeTFLUg.jpg",
+                "https://openshop.uz/uploads/products/photos/202204/fxJPmSKuSnG3YJuQjBzG4eqKVdMb55QOEXu67jOg.jpg",
+                "https://openshop.uz/uploads/products/photos/202204/0FzAFPdtu2GqGUUzEz8By9cARZQ1SejZ6jb5mmbw.jpg"
+            ],
+            "price": "5,994,000"
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 14 Pro 256GB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202210/BW9eEdqFTfUyCmKUaQHfv3rntgVN3XPYVhv6dpVh.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202210/gbSyvCZFde5BWqWYH6fsx2UerTdhaHh4OCq5odR4.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202404/odAI0lhzVHsSZhUtBVgeUaKuHGtkrg0xX2SIV3Rt.jpg"
+            ],
+            "price": "14,520,000"
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 15 Pro Max 1TB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/77uS4UNVqaoxedo7UfMh2Stq9F1XCjLFTVooj4Lr.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/VEUtpTpQIQu6yKKVzcoJWAzaCGyxFEdpka5NstL3.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/XXrfdzKSxpQ6ym5cp8WAD5Mo6sZkbKxZHKnjEVhw.jpg"
+            ],
+            "price": "20,930,000"
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 15 Pro Max 1TB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/MUhFHduVTW2pAubwPgJL9kAvPsJZivUE1RzAi4qn.jpg",
+                "hhttps://openshop.uz/public/storage/uploads/products/photos/202312/bt2v0jaheRRwwCaY85UKFFqaIMbot0Qn79BWoQfg.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/nuWpzIqHPMV7MtkITzOqvEXwRleI5sTKcWHiVtY3.jpg"
+            ],
+            "price": "20,930,000"
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 14 Pro 256GB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202210/BW9eEdqFTfUyCmKUaQHfv3rntgVN3XPYVhv6dpVh.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202210/gbSyvCZFde5BWqWYH6fsx2UerTdhaHh4OCq5odR4.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202404/odAI0lhzVHsSZhUtBVgeUaKuHGtkrg0xX2SIV3Rt.jpg"
+            ],
+            "price": "14,520,000 "
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 11 128GB",
+            "images": [
+                "https://openshop.uz/uploads/products/photos/202203/eXrMLd8C4zAPx8ON4swHAwZIEbsNfpEYliBUYNyc.jpg",
+                "https://openshop.uz/uploads/products/photos/202203/iw8F2rBq2BpS9qBAh80t0C9IuFAcOyyR8mrhNNXV.jpg",
+                "https://openshop.uz/uploads/products/photos/202203/4AQpAPJ63h4CYhKhDa8o2XOLSJYpvXRnhbgL7UaA.jpg"
+            ],
+            "price": "6,756,000 "
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 14 Pro Max 256GB Space",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202301/bx7ELxRQcTaT5MwDz1iPxVdScghVOTlRtZEzn239.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202301/lP8pY62eU7jhp8WFLh3ohNhjBWJTnX5asy6R2ybt.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202301/eqcE8AJl2mXiaOh6Br8EsQvU8iZBRRMrhvJOeKZb.jpg"
+            ],
+            "price": "16,802,000 "
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 15 Pro 256GB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202309/ia1R6yTvvkDhRb00WzGAxcy8BytupfZBj2yFfm0T.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202309/pF7e0Rkwe0abFeGlhD5kWJnDLLEWn3OTlS8Ai1jw.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202309/hpJG1dwHG0ve8ITsOsz1Vw1DMopVklQFMCAuncgl.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202309/qNjV2KVf85cuySwCdp6j0smgKdm2KoVu2T6ZmPRH.jpg"
+            ],
+            "price": "14,127,000"
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 14 Pro 128GB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202210/MXelQ1PtgiTyvP0ESrRlwfXpQ7tlvzkMzKrhuqIl.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202210/MXelQ1PtgiTyvP0ESrRlwfXpQ7tlvzkMzKrhuqIl.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202404/3WXjQXks7ejblP8bcbVzrDQzsBTgchnjlY8r8qw9.jpg"
+            ],
+            "price": "13,081,000"
+        },
+        {
+            "category": "phone",
+            "name": "Apple iPhone 15 Pro Max 512GB Single",
+            "images": [
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/K6F8RVUra6JJxc93z2FOhgTRcVHvoRHeX81GcEAZ.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202312/c0BGoqPksGXtOjT3IcMIJsysh1USl07LUe1DNspt.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202404/8UmvzzQ30FkV3pLIMFxl2kU1aoO1l5VjJoSEfydC.jpg",
+                "https://openshop.uz/public/storage/uploads/products/photos/202404/yT1TspdUPGzThFwliWBZADvMHqxtCUySo9PBoqUS.jpg"
+            ],
+            "price": "18,052,000"
+        }
+
+    ]
+}
