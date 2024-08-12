@@ -2,22 +2,27 @@
     "categories": [
       {
         "id": "1",
-        "title": "Smartphones"
+        "title": "Smartphones",
+        "slug": "smartphones"
       },
       {
         "title": "Laptops",
+        "slug": "laptops",
         "id": "2"
       },
       {
         "title": "Tablets",
+        "slug": "tablets",
         "id": "3"
       },
       {
         "title": "Accessories",
+        "slug": "accessories",
         "id": "4"
       },
       {
         "title": "TVs",
+        "slug": "tvs",
         "id": "70dc"
       }
     ],
@@ -89,7 +94,7 @@
       },
       {
         "id": "13f3",
-        "title": "Asus ROG Strix Scar 18\" Intel i9-13980HX/ DDR5 32GB/ SSD 1TB/NVIDIA GEFORCE RTX 4080 12GB",
+        "title": "Asus ROG Strix Scar 18 Intel i9-13980HX/ DDR5 32GB/ SSD 1TB/NVIDIA GEFORCE RTX 4080 12GB",
         "price": "3052",
         "description": "Mahsulot ta'rifi\nProtsessor: 8 yadroli Intel Core i9-13980HX\nProtsessor chastotasi: 5,6 gigagertsgacha\nOperatsion tizim: reeDOS\nOperativ xotira: DDR5, 32 GB\nMa'lumotlarni saqlash: SSD, 1024 GB\nVideo karta modeli: GeForce RTX 4080\nVideo karta turi: diskret\nEkran diagonali: 18 dyuym\nBatareya quvvati: 90 Vt",
         "categoryId": "2",
