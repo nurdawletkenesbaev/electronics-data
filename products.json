@@ -19,10 +19,28 @@
         "icon": "FaTabletAlt"
       },
       {
-        "title": "Accessories",
-        "slug": "accessories",
+        "title": "Smart Watches",
+        "slug": "smart-watches",
         "id": "4",
         "icon": "BsSmartwatch"
+      },
+      {
+        "title": "Gaming",
+        "slug": "gaming",
+        "id": "5",
+        "icon": "GiGamepad"
+      },
+      {
+        "title": "Cameras",
+        "slug": "cameras",
+        "id": "6",
+        "icon": "BiCamera"
+      },
+      {
+        "title": "Headphones",
+        "slug": "headphones",
+        "id": "7",
+        "icon": "FaHeadphonesAlt"
       },
       {
         "title": "TVs",
