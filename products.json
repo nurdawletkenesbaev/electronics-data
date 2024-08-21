@@ -4,31 +4,31 @@
         "id": "1",
         "title": "Smartphones",
         "slug": "smartphones",
-        "icon": "<GiSmartphone />"
+        "icon": "GiSmartphone"
       },
       {
         "title": "Laptops",
         "slug": "laptops",
         "id": "2",
-        "icon": "<AiOutlineLaptop />"
+        "icon": "AiOutlineLaptop"
       },
       {
         "title": "Tablets",
         "slug": "tablets",
         "id": "3",
-        "icon": "<FaTabletAlt />"
+        "icon": "FaTabletAlt"
       },
       {
         "title": "Accessories",
         "slug": "accessories",
         "id": "4",
-        "icon": "<BsSmartwatch />"
+        "icon": "BsSmartwatch"
       },
       {
         "title": "TVs",
         "slug": "tvs",
         "id": "70dc",
-        "icon": "<IoTvOutline />"
+        "icon": "IoTvOutline"
       }
     ],
     "products": [
