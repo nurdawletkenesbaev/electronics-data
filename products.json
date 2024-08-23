@@ -46,19 +46,19 @@
       "title": "Vacuum cleaner",
       "slug": "vakuum-cleaner",
       "id": "8",
-      "icon": "FaHeadphonesAlt"
+      "icon": "GiVacuumCleaner"
     },
     {
       "title": "Regrigerator",
       "slug": "regrigerator",
       "id": "9",
-      "icon": "FaHeadphonesAlt"
+      "icon": "BiFridge"
     },
     {
       "title": "Washing machine",
       "slug": "washing-machine",
       "id": "10",
-      "icon": "FaHeadphonesAlt"
+      "icon": "GiWashingMachine"
     },
     {
       "title": "TVs",
