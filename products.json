@@ -43,6 +43,24 @@
       "icon": "FaHeadphonesAlt"
     },
     {
+      "title": "Vacuum cleaner",
+      "slug": "vakuum-cleaner",
+      "id": "8",
+      "icon": "FaHeadphonesAlt"
+    },
+    {
+      "title": "Regrigerator",
+      "slug": "regrigerator",
+      "id": "9",
+      "icon": "FaHeadphonesAlt"
+    },
+    {
+      "title": "Washing machine",
+      "slug": "washing-machine",
+      "id": "10",
+      "icon": "FaHeadphonesAlt"
+    },
+    {
       "title": "TVs",
       "slug": "tvs",
       "id": "70dc",
@@ -70,7 +88,7 @@
       "slug": "kamera-canon-eos-250d-kit",
       "price": "699",
       "description": "Qo'lda ergonomik ravishda yotadigan Smart Watch sw13 kavisli korpusli yangi aqlli soat modeli kundalik hayotda juda ko'p rivojlangan va juda foydali xususiyatlarga ega, shuningdek sog'lig'ingizni kuzatishga yordam beradi.",
-      "categoryId": "1",
+      "categoryId": "6",
       "rating": "4,9",
       "images": [
         "https://i.postimg.cc/Kj1JgNzG/Iphone-14-pro-1-15.png",
@@ -84,7 +102,7 @@
       "slug": "apple-watch-se-gps-(gen2)",
       "price": "249",
       "description": "Qo'lda ergonomik ravishda yotadigan Smart Watch sw13 kavisli korpusli yangi aqlli soat modeli kundalik hayotda juda ko'p rivojlangan va juda foydali xususiyatlarga ega, shuningdek sog'lig'ingizni kuzatishga yordam beradi.",
-      "categoryId": "1",
+      "categoryId": "4",
       "rating": "4,9",
       "images": [
         "https://i.postimg.cc/pXnsWq4k/Iphone-14-pro-1-17.png",
@@ -98,7 +116,7 @@
       "slug": "airpods-max-anc",
       "price": "99",
       "description": "Apple AirPods Max minigarnituralari sizning ishonchingizni qozonish uchun yaratilgan. Simsiz aksessuar barcha begona shovqinlarni minimal darajaga tushirishga va o'zining benuqson ovoz sifati bilan kundalik hayotingizni yanada bezashga tayyor. Shaxsiy ko'rinish. AirPods Max minigarnituralari o'ziga xos, zamonaviy ko'rinishga ega bo'lib, sizni olomondan ajralib turishi mumkin. Butun metall quloqchalar va yumshoq silikonning xotira effektli kombinatsiyasi nafaqat nafis ko'rinishni, balki quloqlaringiz va boshingiz uchun qulaylikni ham beradi, naushniklar shakliga eng maqbul tarzda moslashadi. Minimalgacha tovushlar.",
-      "categoryId": "1",
+      "categoryId": "7",
       "rating": "4,7",
       "images": [
         "https://i.postimg.cc/KYmf5Fzs/Iphone-14-pro-1-18.png",
@@ -112,7 +130,7 @@
       "slug": "samsung-galaxy-watch-6-classic",
       "price": "255",
       "description": "Tasvir tasviriy maqsadlarda modellashtirilgan. Galaxy Watch5 Pro qurilmasining changga chidamliligi mustaqil laboratoriya tomonidan sinovdan o'tkazildi: har bir kubometr uchun 2 kg talk kukuni (maksimal zarracha diametri 0,05 mm) chang tushirish kamerasida (qurilma ichidagi havo bosimi atrof-muhitdan past bo'lib qoldi) 2 soat davomida aylandi. IP68 sertifikatiga ega. Changga chidamlilik darajasi haqiqiy foydalanish sharoitlariga bog'liq.",
-      "categoryId": "1",
+      "categoryId": "4",
       "rating": "4,4",
       "images": [
         "https://i.postimg.cc/50Rm1CmZ/Iphone-14-pro-1-19.png",
@@ -140,7 +158,7 @@
       "slug": "samsung-galaxy-buds",
       "price": "87",
       "description": "Samsung Galaxy Buds 2-ning yangi simsiz minigarnituralari, smartfonlar bilan bir qatorda, o'z foydalanuvchilari orasida tezda ishonchni qozonishga muvaffaq bo'ldi. Hech qanday murakkab narsa yo'q-faqat zamonaviy dizayn, yuqori sifatli ovoz va shu bilan birga arzon narx birgalikda bizga muvaffaqiyat keltiradi.  Tashqi ko'rinish qaror qiladi",
-      "categoryId": "1",
+      "categoryId": "7",
       "rating": "4,3",
       "images": [
         "https://i.postimg.cc/PrBFYBYB/Iphone-14-pro-1-14.png",
@@ -280,7 +298,7 @@
       "slug": "total-tvc24751-(2in1)",
       "price": "327",
       "description": "Mahsulot ta'rifi\nTotal tvc24751 75l nam va quruq changyutgich.Bosch, Makita va Stenli kabi boshqa dunyoga mashhur brendlardan farqli o'laroq, yuqori sifatli, lekin juda qimmat, bizning yuqori sifatli g'oyamiz nafaqat funksionallik, qulaylik va tashqi ko'rinish, balki samaradorlik, ishlash va texnik xizmat ko'rsatish bilan ham bog'liq.\n\nMahsulot haqida ma'lumot:\n- Quruq va nam changyutgich\n- Karton qutiga qadoqlangan\n\nTexnik xususiyatlari:\n- kuchlanish: 220v-240V ~ 50Hz\n- kirish quvvati: 2x1200 Vt\n- havo hajmi: 3,0 kub. m / min\n- assimilyatsiya bosimi: 16-17 kPa\n- imkoniyatlar: 75 l\n- konteyner materiali: zanglamaydigan po'lat\n- quvvat kabeli: 5,5 m",
-      "categoryId": "4",
+      "categoryId": "8",
       "rating": "4,6",
       "images": [
         "https://i.postimg.cc/sxWMx6BM/c4ca4238a0b923820dcc509a6f75849b20220913104817852672c-Dl1-Bn-Oz7-jpg.webp",
@@ -294,7 +312,7 @@
       "slug": "bosch-fkn96vpea",
       "price": "2995",
       "description": "Mahsulot ta'rifi\nОсновные характеристики\nПроизводитель\tBosch\nУстройство\tхолодильник\nТип\tтрехкамерный\nТип установки\tотдельностоящий\nТехнические характеристики\nOбщий объем\t605 л\nПолезный объем холодильной камеры\t405 л\nПолезный объем морозильной камеры\t200 л\nКоличество камер/дверей\t3/4\nКоличество компрессоров\t1\nУровень шума\t38 дБ\nРасположение морозильной камеры\tснизу\nКласс энергопотребления\tA\nЭнергопотребление\t333 кВтч/год\nМощность замораживания\t13 кг/день\nАвтономное сохранение холода\t15 ч\nКлиматический класс\tSN-T\nТип ручек\tскрытый\nСистема оттаивания\tNo Frost\nМатериал полок\tстекло\nТип управления\tэлектронное\nТип зоны свежести\tвлажная\nРегулируемые полки холодильника\tесть\nКоличество полок холодильний камеры\t3\nКоличество ящиков морозильной камеры\t6\nКонтейнер для фруктов и овощей\t1\nМультифункциональная зона\tесть\nСуперохлаждение\tесть\nСуперзаморозка\tесть\nДисплей\tесть\nВнутреннее светодиодное освещение\tесть\nГабариты и цвет\nЦвет\tсеребристый\nРазмеры (В×Ш×Г)\t183 × 91 × 73.1 см\nВес \t117.8 кг",
-      "categoryId": "4",
+      "categoryId": "9",
       "rating": "5",
       "images": [
         "https://i.postimg.cc/tJFgpsfP/c4ca4238a0b923820dcc509a6f75849b2022090714025496680s-KK0l-Dgbb3-jpg.webp",
@@ -308,7 +326,7 @@
       "slug": "lg-gc-q22ftbkl-doorcooling",
       "price": "2013",
       "description": "Mahsulot ta'rifi\nBatafsil xususiyatlar\n\nUmumiy xususiyatlar\nMuzlatgich\n\npastdan\nQoplama rangi / materiali\n\nqora / plastmassa / metall\nBoshqaruv\n\nelektron\nSmartfonni boshqarish\n\nbor\nQuvvat sarfi\n\na + sinf (yiliga 370 kVt/soat)\nInverter kompressor turi\nha\nKompressorlar soni\n\n1\nSovutgich\n\nR600a (izobutan)\nKameralar soni\n3\nEshiklar soni\n4\nKatlanadigan javon\nbor\nSovutgichdagi javonlar soni\n3\nSovutgichdagi qutilar soni\n2\nMuzlatish kamerasidagi qutilar/javonlar soni\n6\nOlchamlari (Shxgxv)\n83.5x73.4x178. 7 sm\nSovuq\nMuzlatgichni muzdan tushirish\n\nNo Frost\nSovutgichni muzdan tushirish\n\nNo Frost\nDam Olish Rejimi\n\nbor\nMuzlatish kuchi\n\nkuniga 14 kg gacha\nNoyob texnologiyalar\nDoorCooling+, InstaView, Door-in-Door\nQo'shimcha imkoniyatlar\n\nsuper muzlatish, harorat ko'rsatkichi\nHajmi\nUmumiy hajm\n458 litr\nSovutgich kamerasining hajmi\n315 litr\nMuzlatgich hajmi\n143 litr\nBoshqa funktsiyalar va xususiyatlar\nDispley\nbor\nBolalarni himoya qilish\nbor\nMuz generatori\n\nyo'qolgan\nRaf materiallari\n\nshisha\nShovqin darajasi\n36 db gacha\nIqlim sinfi\n\nN, SN, ST\nOg'irligi\n130 kg",
-      "categoryId": "4",
+      "categoryId": "9",
       "rating": "4,9",
       "images": [
         "https://i.postimg.cc/VkkzHZYX/5e15c273c69d6-jpg.webp",
@@ -322,26 +340,12 @@
       "slug": "bosch-wgb256a0me",
       "price": "1921",
       "description": "Mahsulot ta'rifi\nПолноразмерная стиральная машина Bosch Series 8 с фронтальной загрузкой, обработкой паром и функцией автодозировки моющих средств, имеет максимальный объем стирки 10 кг и возможность управления с помощью мобильного приложения Home Connect.\n\n \n\nОбщие параметры\n\nТип стиральная машина\n\nВид  автомат\n\nМодель Bosch WGB256A0ME\n\nОсновной цвет  белый\n\nДополнительный цвет черный\n\nЦвет корпуса белый\n\nЦвет люка / дверцы белый\n\nЦвет панели управления черный\n\nОсновные характеристики\n\nТип загрузки фронтальная\n\nЗагрузка белья для стирки и отжима   10 кг\n\nЗагрузка для сушки   0 кг\n\nОбъем барабана 70 л\n\nСторона открывания двери  налево\n\nТип сушки  нет\n\nТепловой насос   нет\n\nАктиватор   нет\n\nВыбор скорости отжима   есть\n\nМаксимальная скорость отжима   1600 об/мин\n\nУровень шума при отжиме  74 дБ\n\nУровень шума при стирке   49 дБ\n\nУправление и режимы\n\nТип управления  поворотный механизм, сенсорное\n\nУправление со смартфона  Wi-Fi\n\nПриложение для управления   Home Connect\n\nДисплей   есть\n\nИндикация  Wi-Fi-соединения, блокировки дверцы, времени до конца цикла, ошибок, рабочего цикла, скорости отжима, температуры\n\nЗвуковой сигнал окончания стирки   есть\n\nОтсрочка запуска   есть\n\nМаксимальное время отсрочки запуска  24 ч\n\nКоличество программ стирки 14\n\nПрограммы   Easy Care, автоматическая 40°C, гигиена+, пар, полоскание, приложение, пуховое одеяло, слив/отжим, смешанная, супер15/30, хлопок, хлопок эко, шелк/деликатная, шерсть\n\nПрочие режимы и функции  Intensive Plus, Speed Perfect, автодозировка моющего средства, автодозировка средств, беспроводное управление, блокировка от детей, выбор скорости отжима, выбор температуры стирки, дополнительное полоскание, отсрочка старта, предварительная стирка, старт/пауза, тихая стирка, удаление пятен\n\nФункциональные особенности автодозировка средств, обработка паром, самодиагностика\n\nИзменение температуры стирки есть\n\nАвтобаланс  есть\n\nКонтроль пенообразования  есть\n\nПитание\n\nНапряжение питания  220-240В/50Гц\n\nБезопасность\n\nЗащита от протечек   есть\n\nБлокировка от детей   есть\n\nДополнительная информация\n\nДлина кабеля 1.6 м\n\nДополнительно  длина заливного шланга 1.5 м, длина сливного шланга 1.5 м\n\nБак для воды   нет\n\nУстановка\n\nРегулируемые ножки  есть\n\nГабариты и вес\n\nШирина  59.8 см\n\nВысота  84.5 см\n\nГлубина  59 см\n\nГлубина с открытой дверцей 109 см\n\nВес стиральной машины  82.6 кг",
-      "categoryId": "4",
+      "categoryId": "10",
       "rating": "4,9",
       "images": [
         "https://i.postimg.cc/3xqQfKfH/c4ca4238a0b923820dcc509a6f75849b2024080515483734599f5-L39-E15w6.jpg",
         "https://i.postimg.cc/nr264Z9g/c81e728d9d4c2f636f067f89cc14862c2024080515483634540-GYx5zg5-VT4.jpg",
         "https://i.postimg.cc/YqX5jrHm/eccbc87e4b5ce2fe28308fd9f2a7baf32024080515483896248-M9-NNjp3x9-H.jpg"
-      ]
-    },
-    {
-      "id": "7564",
-      "title": "Bosch Vero Barista 600 TIS65621RW",
-      "slug": "bosch-vero-barista-600-tis65621rw",
-      "price": "1566",
-      "description": "Mahsulot ta'rifi\nОсновные характеристики\n\nКоличество напитков 12\n\nМощность 1500 Вт\n\nОбъём 1.7 л\n\nПриготовление напитков американо / горячая вода / кофе / кофе с молоком / капучино / латте макиато / эспрессо макиато / эспрессо / молочная пена\n\nТип используемого кофе зерновой\n\nОчистка\n\nФункция самоочистки да\n\nМатериал\n\nМатериал жерновов керамика\n\nМатериал (корпус) пластик\n\nЭкран\n\nТип дисплея LCD\n\nИспользование типов кофе\n\nОбъём резервуара для зерен 300 г\n\nПриготовление молочной пены\n\nКапучинатор да\n\nЁмкость для молока нет\n\nОбъем кувшина для молока 0.5 л\n\nРезервуары\n\nСъемный резервуар для капель да\n\nСъёмный резервуар для воды да\n\nОбъём резервуара для воды 1.7 л\n\nТемпература\n\nРегулировка температуры кофе да\n\nПодача горячей воды да\n\nГабариты, цвет и вес\n\nРазмеры 385 x 281 x 468 мм\n\nЦвет серебристый, чёрный\n\nВес 9.8 кг\n\nФункции\n\nКоличество степеней помола 2\n\nАвтоотключение да\n\nВозможности\n\nВозможность приготовления 2 чашек да\n\nВозможность контроля крепости кофе да\n\nУправление\n\nТип управления электронный\n\nИндикация\n\nИндикация включения да\n\nИндикация готовности к работе да\n\nДополнительная информация\n\nПодогрев чашек да\n\nВстроенная кофемолка да\n\nТип нагревателя термоблок\n\nБренд Bosch",
-      "categoryId": "4",
-      "rating": "5",
-      "images": [
-        "https://i.postimg.cc/gjz7k5tD/c4ca4238a0b923820dcc509a6f75849b2021122016041119391mRWYRE8vW3.jpg.webp",
-        "https://i.postimg.cc/PJSRL4Bk/c81e728d9d4c2f636f067f89cc14862c2021122016041168767FJcCLfnKXW.jpg.webp",
-        "https://i.postimg.cc/9Ffk667X/eccbc87e4b5ce2fe28308fd9f2a7baf320211220160411244730BqT71qZ6T.jpg.webp"
       ]
     },
     {
@@ -364,7 +368,7 @@
       "slug": "xiaomi-redmi-note-13-6/128gb",
       "price": "173",
       "description": "Mahsulot ta'rifi\n \nXiaomi Redmi Note 13 4G - 2023-yil dekabr oyida chiqarilgan Redmi Note 13 seriyasidagi eng so'nggi modeldir. Xiaomi brendi arzon narxlarda yuqori sifatli mahsulotlari bilan mashhur va bu smartfon ham bundan mustasno emas.\n\nUshbu qurilmaning dizayni va materiallari alohida e'tiborga loyiqdir. Xiaomi Redmi Note 13 4G 1080x2400 (FHD+) o'lchamdagi 6,67 dyuymli AMOLED ekranga ega. 120 Gts yangilanish tezligi bilan ekrandagi tasvirlar juda silliq va Real ko'rinadi. Ekranning maksimal yorqinligi 1000 CD/m2 ni tashkil qiladi, bu hatto to'liq quyoshda ham ajoyib ko'rinishni ta'minlaydi. Ekranning kontrasti 5000000: 1 ga teng, bu ranglarni yanada to'yingan va chuqurroq qiladi.",
-      "categoryId": "",
+      "categoryId": "1",
       "rating": "4,7",
       "images": [
         "https://i.postimg.cc/mZqJ4PLt/07563a3fe3bbe7e3ba84431ad9d055af2024011520033480342-DYvykp-JVZ3-png.webp",
@@ -378,7 +382,7 @@
       "slug": "samsung-galaxy-s24-ultra-12/1tb",
       "price": "1935",
       "description": "Добро пожаловать в эру мобильного AI. Откройте для себя высокий уровень возможностей для творчества и продуктивности вместе с самым важным устройством в вашей жизни — смартфоном Samsung Galaxy S24 Ultra.\nПредставляем Galaxy S24 Ultra — совершенную форму смартфона Galaxy Ultra с 6,8-дюймовым экраном.\nGalaxy S24 Ultra с инновационной 200 МП камерой и встроенным искусственным интеллектом устанавливает стандарт качества съемки. Процессор ProVisual распознает объекты, улучшает цветовой тон, уменьшая шум и подчеркивая детали. Наслаждайтесь каждым снимком, снятым на Galaxy S24 Ultra.\nЗащитное покрытие Corning Gorilla Armor уменьшает отражения и улучшает четкость изображения даже на солнце. А технология Vision Booster усиливает контрастность и цветопередачу, и это, действительно, впечатляет.\nАккумулятор Ultra с огромной емкостью и повышенной энергоэффективностью добавит силы в самый ответственный момент — например, в эпической битве с боссом, к которой вы так долго готовились.",
-      "categoryId": "",
+      "categoryId": "1",
       "rating": "5",
       "images": [
         "https://i.postimg.cc/nhZJ8X2q/s3-345x-crop-center.png",
