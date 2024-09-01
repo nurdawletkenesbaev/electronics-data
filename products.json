@@ -49,16 +49,16 @@
       "icon": "GiVacuumCleaner"
     },
     {
-      "title": "Regrigerator",
-      "slug": "regrigerator",
-      "id": "9",
-      "icon": "BiFridge"
-    },
-    {
       "title": "Washing machine",
       "slug": "washing-machine",
       "id": "10",
       "icon": "GiWashingMachine"
+    },
+    {
+      "title": "Regrigerator",
+      "slug": "regrigerator",
+      "id": "9",
+      "icon": "BiFridge"
     },
     {
       "title": "TVs",
